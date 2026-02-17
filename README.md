@@ -6,6 +6,21 @@ A collection of books and resources for mastering Backend Development, Frontend 
 
 # Directory Structure
 
+```text
+books
+├── backend
+│   ├── django
+│   │   └── django_for_beginners.epub
+│   └── python
+│       ├── effective_python_3rd_edition.epub
+│       └── fluent_python_2nd_edition.pdf
+├── communication-soft-skills
+├── frontend
+├── relevant-books
+└── system-design-architecture
+
+```
+
 ## Backend Development
 
 ## Python 
