@@ -25,16 +25,17 @@ books
 
 ## Python 
 
-1. [Fluent Python (2nd Edition)](engineering_books/books/backend/django/)
+1. [Fluent Python (2nd Edition)](engineering_books/books/backend/django/fluent_python_2nd_edition.pdf)
 2. Effective Python (2nd Edition)
 3. Test Drive Development with Python
 
 ### Django 
 
 1. Django for Beginners
-2. Django for Professionals
-3. Django 5 By Example
-4. Two Scoops of Django
+2. Django for APIs
+3. Django for Professionals
+4. Django 5 By Example
+5. Two Scoops of Django
 
 ## Frontend Development
 
