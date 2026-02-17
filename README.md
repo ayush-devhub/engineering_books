@@ -6,21 +6,39 @@ A collection of books and resources for mastering Backend Development, Frontend 
 
 # Directory Structure
 
+```text
+books
+├── backend
+│   ├── django
+│   │   ├── django_5_by_example.epub
+│   │   ├── django_for_beginners.epub
+│   │   └── two_scoops_of_django_3rd_edition.pdf
+│   └── python
+│       ├── effective_python_3rd_edition.epub
+│       └── fluent_python_2nd_edition.pdf
+├── communication-soft-skills
+│   └── deep_work.pdf
+├── frontend
+├── relevant-books
+└── system-design-architecture
+    └── clean_code_collection.pdf
+```
+
 ## Backend Development
 
 ## Python 
 
-1. [Fluent Python (2nd Edition)](engineering_books/books/backend/python/fluent_python_2nd_edition.pdf)
-2. [Effective Python (3rd Edition)](engineering_books/books/backend/python/effective_python_3rd_edition.epub)
+1. Fluent Python (2nd Edition)
+2. Effective Python (3rd Edition)
 3. Test Drive Development with Python
 
 ### Django 
 
-1. [Django for Beginners (5th Edition)](engineering_books/books/backend/django/django_for_beginners.epub)
-2. Django for APIs (5th Edition)
+1. Django for Beginners (5th Edition)
+2. Django for APIs (4th Edition)
 3. Django for Professionals (5th Edition)
-4. [Django 5 By Example (5th Edition)](engineering_books/books/backend/django/django_5_by_example.epub)
-5. [Two Scoops of Django (3rd Edition)](engineering_books/books/backend/django/two_scoops_of_django_3rd_edition)
+4. Django 5 By Example (5th Edition)
+5. Two Scoops of Django (3rd Edition)
 
 ## Frontend Development
 
