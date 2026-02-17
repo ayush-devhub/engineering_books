@@ -10,7 +10,7 @@ A collection of books and resources for mastering Backend Development, Frontend 
 
 ## Python 
 
-1. Fluent Python
+1. Fluent Python (2nd Edition)
 2. Effective Python (2nd Edition)
 3. Test Drive Development with Python
 
